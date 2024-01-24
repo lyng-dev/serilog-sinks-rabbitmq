@@ -1,3 +1,11 @@
+# Project has moved to a new maintainer
+
+https://github.com/ArieGato/serilog-sinks-rabbitmq/
+
+## Thanks
+
+I would like to thank all the people who have contributed to the project during the time I was helping develpoing it. I have passed on ownership to ArieGato, who will now be the champion for this tool. Good luck, and thanks for all the good times on this project. It was a blast and I learned so much.
+
 # serilog-sinks-rabbitmq
 ![Build Status](https://ci.appveyor.com/api/projects/status/row7ob6fhgmvtqwb?svg=true)
 <a href="https://www.nuget.org/packages/Serilog.Sinks.RabbitMQ/">
